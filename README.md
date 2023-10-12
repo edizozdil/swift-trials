@@ -1,1 +1,1 @@
-# swift-trials
+Swift trials via Udemy Course and Youtube Videos.
